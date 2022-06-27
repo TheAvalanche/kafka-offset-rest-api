@@ -14,4 +14,5 @@ Returns current non-zero lag for each topic and consumer.
 ```
 gradlew clean build
 docker build -t kafka-rest .
+./run.sh
 ```
