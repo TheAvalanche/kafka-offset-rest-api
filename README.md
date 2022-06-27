@@ -1,6 +1,6 @@
 # kafka-offset-rest-api
 
-Small REST service for Kafka consumer lag monitoring
+Small REST service for Kafka consumer lag monitoring. Created for personal use.
 
 ## API
 ### /
